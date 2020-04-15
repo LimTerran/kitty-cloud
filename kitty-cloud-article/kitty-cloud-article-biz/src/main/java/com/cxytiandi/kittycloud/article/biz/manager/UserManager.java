@@ -1,16 +1,16 @@
-package com.cxytiandi.kittycloud.comment.biz.manager;
+package com.cxytiandi.kittycloud.article.biz.manager;
 
 /**
- * 评论Manager接口
+ * 用户Manager接口
  *
  * @作者 尹吉欢
  * @个人微信 jihuan900
  * @微信公众号 猿天地
  * @GitHub https://github.com/yinjihuan
  * @作者介绍 http://cxytiandi.com/about
- * @时间 2020-02-16 16:02
+ * @时间 2020-02-12 20:01:04
  */
-public interface CommentManager {
+public interface UserManager {
 
     /**
      * 获取用户昵称
