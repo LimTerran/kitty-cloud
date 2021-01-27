@@ -17,6 +17,7 @@
         <module>kitty-cloud-search</module>
         <module>kitty-cloud-job</module>
         <module>kitty-cloud-mqconsume</module>
+        <module>kitty-cloud-goods</module>
     </modules>
 
     <properties>
@@ -38,6 +39,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
+
         </dependency>
         <dependency>
             <groupId>com.cxytiandi</groupId>
